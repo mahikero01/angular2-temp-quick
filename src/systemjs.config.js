@@ -26,7 +26,12 @@
       //moment
       'moment':'npm:moment/min/moment.min.js',
       'ng2-datetime-picker': 'npm:ng2-datetime-picker/dist',
-      
+      //kekeh datepicker
+      'mydatepicker': 'npm:mydatepicker/bundles/mydatepicker.umd.min.js',
+
+      //ngx-bootstrap
+      'ngx-bootstrap':'npm:ngx-bootstrap/bundles/ngx-bootstrap.umd.min.js',
+
       // other libraries
       'rxjs':                      'npm:rxjs',
       'angular-in-memory-web-api': 'npm:angular-in-memory-web-api/bundles/in-memory-web-api.umd.js'
