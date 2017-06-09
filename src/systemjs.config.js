@@ -43,7 +43,7 @@
             loader: 'systemjs-angular-loader.js'
           }
         }
-      },
+      },  
       rxjs: {
         defaultExtension: 'js'
       },
